@@ -1,0 +1,12 @@
+
+body {
+    font-family: "Roboto", "Arial", sans-serif;
+  }
+h1 {
+       color: #6960EC;
+}
+.Cats_of_different_sizes {
+    height: 175px;
+    border-radius: 25%;
+    border: 8px solid #00A36C;
+}
